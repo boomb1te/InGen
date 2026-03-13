@@ -1,0 +1,4 @@
+docxtpl
+python-docx
+docxcompose
+docx2pdf
